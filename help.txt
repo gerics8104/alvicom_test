@@ -1,0 +1,8 @@
+
+t {"szamlaszam":"11111111-22222222","penznem":"HUF","osszeg":-30000,"valutaArfolyam":null}
+
+t {"szamlaszam":"11111111-22222222","penznem":"USD","osszeg":-49.99,"valutaArfolyam":257.21}
+
+t {"szamlaszam":"22222222-33333333","penznem":"USD","osszeg":-21,"valutaArfolyam":null}
+
+t {"szamlaszam":"22222222-33333333","penznem":"CAD","osszeg":129.90,"valutaArfolyam":1.25}
